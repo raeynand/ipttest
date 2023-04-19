@@ -2,5 +2,6 @@
 
 int main() {
 	printf("Im Adonis Virtudazo");
-printf ("Hello my name is Raynand");
+	printf("regy");
+	printf ("Hello my name is Raynand");
 }
